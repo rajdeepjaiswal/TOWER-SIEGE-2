@@ -1,5 +1,5 @@
-# TOWERSIEGE-1
+# TOWERSIEGE-2
 
-## I have creted a game using concept of Slingshot.
+## Create a Tower Siege Game where we can throw a rock at a group of stacked objects and crash them and they disappear.
 
-### Output Link : https://rajdeepjaiswal.github.io/TOWERSIEGE-1/
+### Output Link : https://rajdeepjaiswal.github.io/TOWERSIEGE-2/
